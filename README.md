@@ -1,4 +1,5 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/sbruthfo/github-slideshow)
+![GitHub pull requests by-label](https://img.shields.io/github/issues-pr/sbruthfo/github-slideshow/documentation)
 
 # Your GitHub Learning Lab Repository for Introducing GitHub
 
